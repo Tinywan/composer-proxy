@@ -19,6 +19,7 @@
             "phpoffice/phpspreadsheet": "^1.29",
             "workerman/crontab": "^1.0",
             "webman/redis-queue": "^1.2",
+            "tinywan/hello": "*",
             "tinywan/util": "^1.1"
     },
     "minimum-stability": "dev",
