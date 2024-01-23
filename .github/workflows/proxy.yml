@@ -28,8 +28,6 @@ jobs:
         run: |
           cd src/biz-skeleton
           composer update -oW --ignore-platform-reqs
-          cd ../swow-skeleton
-          composer update -oW --ignore-platform-reqs
       - name: Build Composer
         run: |
           composer install -o
